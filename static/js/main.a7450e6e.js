@@ -10010,7 +10010,7 @@
                                     })
                             })
                     })
-                }, S = n.p + "static/media/twprofile.jpg", j = n(48), N = function () {
+                }, S = n.p + "static/media/tint-profile.jpg", j = n(48), N = function () {
                 return (0,
                     a.jsx)(a.Fragment, {
                         children: (0,
@@ -10492,24 +10492,24 @@
                 title: "MM Easy Invoice",
                 image: "../images/projects/mmeasyinvoice.png"
             }, 
-            // {
-            //     id: 5,
-            //     category: "Website",
-            //     title: "Fashion Shop Ecommerce Project",
-            //     desc: "This website is an eCommerce website and designed for selling fashion dresses.",
-            //     projectlink: "https://fashionshopecommerce.netlify.app/",
-            //     fronttitle: "Functions",
-            //     frontend: [{
-            //         data: "Customers can see products and products details "
-            //     }, {
-            //         data: "Customers can select his/her desire clothes sizes and can add to shopping card, At shopping card page customer can check the tottal ammount "
-            //     }, {
-            //         data: "This Website has Home Page, Shop Page, Blog Page, About us page, Contact Page and Shopping Card Page and every pages are connected and work properly"
-            //     }, {
-            //         data: "Created by using Html, Css, Sass and Javascript"
-            //     }],
-            //     image: "../images/projects/fashionecommercepj.png"
-            // }, 
+            {
+                id: 5,
+                category: "Website",
+                title: "Gym Membership",
+                desc: "Gym Membership project is for the gym training class",
+                projectlink: "http://188.166.220.6/",
+                fronttitle: "Functions",
+                frontend: [{
+                    data: "The gym members are able to join the gym flexiably"
+                }, {
+                    data: "The members, they can buy the packages by weekly, monthly, yearly."
+                }, {
+                    data: "They all are able to get the promotion.And also We do it for admin. He can manage the gym members, Attendence, Payment Epired, the earnings."
+                }, {
+                    data: "By using our website, Gym owner can handle his gym very easily, He can easily know the financial. He is able to manage the members."
+                }],
+                image: "../images/projects/gym.png"
+            }, 
             // {
             //     id: 6,
             //     category: "Website",
