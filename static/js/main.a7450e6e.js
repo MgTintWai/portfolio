@@ -10681,10 +10681,10 @@
             var P = [{
                 id: 1,
                 category: "education",
-                year: "ITvisionHub., Ltd | in Myanmar (November 2023 \u2013 Present)",
-                title: "Senior Backend Developer | PHP(Laravel Framework) ",
+                year: "WSmart Co., Ltd | in Thailand (November 2023 \u2013 Present)",
+                title: "Senior Full Stack Developer | PHP(Laravel Framework) ",
                 desc: [{
-                    data: 'Developing and maintaining all server-side network components for the "DMS", and \u201dDNI\u201d websites, ensuring stable, fast, and secure data exchange between servers and end-users.'
+                    data: 'Developing and maintaining all server-side network components for the "DMS" websites, ensuring stable, fast, and secure data exchange between servers and end-users.'
                 }, {
                     data: "Ensuring optimal performance of the central database and responsiveness to frontend requests."
                 }, {
@@ -10697,7 +10697,7 @@
                 id: 2,
                 category: "education",
                 year: "ITVisionHub Pte., Ltd | in Myanmar (November 2019 \u2013 October 2023)",
-                title: "Senior Full Stack Developer ",
+                title: "Senior Backend Developer ",
                 desc: [{
                     data: "Manage project timeline and lead the team members"
                 }, {
