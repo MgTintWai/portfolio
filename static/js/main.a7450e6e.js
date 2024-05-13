@@ -10063,7 +10063,7 @@
                                                                         className: "downloadcv",
                                                                         children: (0,
                                                                             a.jsx)("a", {
-                                                                                href: "https://drive.google.com/file/d/17l-jIcFy8WTanIFAMlZQn7MYJ3OWWSZc/view?usp=sharing",
+                                                                                href: "https://drive.google.com/file/d/1yB5U48ZLGOQ7jGQDg92rfsadXJ4xGO7x/view?usp=drive_link",
                                                                                 target: "_blank",
                                                                                 download: !0,
                                                                                 children: (0,
