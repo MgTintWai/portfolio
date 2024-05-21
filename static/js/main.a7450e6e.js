@@ -10509,121 +10509,7 @@
                     data: "By using our website, Gym owner can handle his gym very easily, He can easily know the financial. He is able to manage the members."
                 }],
                 image: "../images/projects/gym.png"
-            }, 
-            // {
-            //     id: 6,
-            //     category: "Website",
-            //     desc: "This website is an Education website and designed with Home page, About Page, Courses Page and Contact Page",
-            //     projectlink: "https://educationcoursewebsiteksh.netlify.app/",
-            //     fronttitle: "Functions",
-            //     frontend: [{
-            //         data: "At Home page, shows the categories of courses, popular courses, customers frequently asked qusestion and student's testimonials"
-            //     }, {
-            //         data: "At About page, shows the university's achievements and team members "
-            //     }, {
-            //         data: "At Courses page, display about the all courses and at Contact page, the user can connect with the education center by sending mail  "
-            //     }, {
-            //         data: "Created by using html, css, scss and javascript. Learning about card design and mobile responsive"
-            //     }],
-            //     title: "Education Website",
-            //     image: "../images/projects/educationpj.png"
-            // }, 
-            // {
-            //     id: 7,
-            //     category: "Website",
-            //     desc: "This website is an Ecommerce website and designed for selling bed and bed room accessories",
-            //     projectlink: "https://furaitureselling.netlify.app/",
-            //     fronttitle: "Functions",
-            //     frontend: [{
-            //         data: "At Home page, customer can see the products and price and user can add to cart list"
-            //     }, {
-            //         data: "At cart page, customer can increase or decrease the selected item count and can check the total ammount"
-            //     }, {
-            //         data: "This project is learning about  API fetching, how to manage and usage of local storage, manage the cart when user add an item and bill checkout system"
-            //     }, {
-            //         data: "Created by using Html, Css, Json and Javascript."
-            //     }],
-            //     title: "Furaiture Selling Website",
-            //     image: "../images/projects/shoppingcartpj.png"
-            // }, 
-            // {
-            //     id: 8,
-            //     category: "WEB DESIGN",
-            //     desc: "This website is designed for Digital Marking Services",
-            //     projectlink: "https://digitalmarketingdesign.netlify.app/",
-            //     fronttitle: "Functions",
-            //     frontend: [{
-            //         data: "Learning about how to use css partical library, images frame desgin, icons usage and card design, mobile responsive and how to create to get a more attractive website"
-            //     }, {
-            //         data: "Created by using Html, Css, and Javascript."
-            //     }],
-            //     title: "Digital Marketing and Business Solution Project",
-            //     image: "../images/projects/digitalbrandpj.png"
-            // }, 
-            // {
-            //     id: 9,
-            //     category: "WEB Application",
-            //     desc: "The purpose of creating a chat GPT AI website is to provide users with an interactive and engaging experience. It allows users to ask questions and receive answers from an AI-powered chatbot, which can help them find information quickly and easily. Additionally, it can be used to provide customer service, automate tasks, and even provide personalized recommendations.",
-            //     projectlink: "https://open-ai-project-kyawswarhtet.vercel.app/",
-            //     fronttitle: "Functions",
-            //     frontend: [{
-            //         data: "User can ask any question to Ai Bot by texting in box area"
-            //     }, {
-            //         data: "To get the specific result answers used the Openai api "
-            //     }, {
-            //         data: "Backend server is deployed on the Render server and Client side is run on the Vercel frontend server by using the GitHub"
-            //     }, {
-            //         data: "Learning about how to use vite platform, openapi library, how to deploy website using Render cloud server and Vercel platform "
-            //     }, {
-            //         data: "Created by using Html, Css, Javascript, vite and Node js"
-            //     }],
-            //     title: "My Own ChatGPT Open-AI Application",
-            //     image: "../images/projects/openaipj.png"
-            // }, 
-            // {
-            //     id: 10,
-            //     category: "Website",
-            //     desc: "The purpose of creating a cosmetic ecommerce website is to provide customers with an easy and convenient way to purchase cosmetics online. The website should feature a wide range of cosmetics, including makeup, skincare, and hair care products, as well as a secure payment system and customer service support. The website should also provide customers with product descriptions, reviews, and other helpful information to help them make informed purchasing decisions.",
-            //     projectlink: "https://pos-project-kyawswarhtet.vercel.app/",
-            //     fronttitle: "Functions",
-            //     frontend: [{
-            //         data: "All product can see at the home page by related categories"
-            //     }, {
-            //         data: "Product can add to the cart and can check the total prices "
-            //     }, {
-            //         data: "Can create the invoice and generate bill by specific user and can print invoice slip(eg. pdf file, A4, etc.)"
-            //     }, {
-            //         data: "Can add and create new product data by owner"
-            //     }, {
-            //         data: "Can check ordered user list and informations"
-            //     }, {
-            //         data: "If you want to test and don't want to create new user , you can login with ( UserID = 777 , Password = Ksh@1234 )"
-            //     }, {
-            //         data: "Created by using Html, Css, Ant Design, Javascript, React.js, Redux,Backend Node js and database Mongodb"
-            //     }],
-            //     title: "(POS) Cosmetic Ecommerce Website",
-            //     image: "../images/projects/mppospj.png"
-            // }, 
-            // {
-            //     id: 11,
-            //     category: "Website",
-            //     desc: "Promptopia is information sharing Website where developer can share blog information to other people.",
-            //     projectlink: "https://promptopia-project-blue.vercel.app/",
-            //     fronttitle: "Functions",
-            //     frontend: [{
-            //         data: "User can login with google account and see the information"
-            //     }, {
-            //         data: "Individual user can create, edit and delete the post"
-            //     }, {
-            //         data: "Can view uploaded user profile and copy the post"
-            //     }, {
-            //         data: "Can easily search the post by the username or post or tabs"
-            //     }, {
-            //         data: "Created by using Next.js-13, SSR, Tailwind Css  MongoDB, Express.js, RestApi and Vercel"
-            //     }],
-            //     title: "Promptopia Website",
-            //     image: "../images/projects/promptopia.png"
-            // }
+            },
         ], _ = function () {
                 return (0,
                     a.jsx)(a.Fragment, {
@@ -10681,7 +10567,7 @@
             var P = [{
                 id: 1,
                 category: "education",
-                year: "WSmart Co., Ltd | in Thailand (November 2023 \u2013 Present)",
+                year: "WSmart Co.,Ltd | in Thailand (November 2023 \u2013 Present)",
                 title: "Senior Full Stack Developer | PHP(Laravel Framework) ",
                 desc: [{
                     data: 'Developing and maintaining all server-side network components for the "DMS" websites, ensuring stable, fast, and secure data exchange between servers and end-users.'
