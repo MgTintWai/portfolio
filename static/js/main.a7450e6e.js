@@ -10681,7 +10681,7 @@
             var P = [{
                 id: 1,
                 category: "education",
-                year: "ITVisionHub Pte., Ltd | in Myanmar (November 2023 \u2013 Present)",
+                year: "WSmart Co., Ltd | in Thailand (November 2023 \u2013 Present)",
                 title: "Senior Full Stack Developer | PHP(Laravel Framework) ",
                 desc: [{
                     data: 'Developing and maintaining all server-side network components for the "DMS" websites, ensuring stable, fast, and secure data exchange between servers and end-users.'
